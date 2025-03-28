@@ -1,0 +1,16 @@
+site_name: Tensor Explain
+repo_url: https://github.com/Assaoka/Tensor-Explain
+repo_name: Assaoka/Tensor-Explain
+edit_uri: tree/main/docs
+
+theme:
+  name: material
+  language: en
+  # logo: assets/logo.png
+  # favicon: assets/favicon.png
+
+markdown_extensions:
+  - attr_list
+
+# extra_css:
+#   - stylesheets/extra.css
